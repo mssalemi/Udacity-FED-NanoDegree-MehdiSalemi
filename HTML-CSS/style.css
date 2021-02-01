@@ -1,0 +1,10 @@
+.box-1 {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  background-color: coral;
+  display: block;
+  text-align: center;
+  font-size: 1.1em;
+  color: #00f;
+}
