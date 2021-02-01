@@ -1,0 +1,19 @@
+.flex-container {
+  border: 3px solid yellow;
+  display: flex;
+  margin: 20px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  border: 3px solid black;
+  margin: 20px;
+}
+
+.item {
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  border: 5px dotted red;
+}
